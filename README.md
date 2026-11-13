@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Naomi Kwamboka. AI and Automation Engineer, Nairobi, Kenya. I build AI that shows its working." width="100%">
+  <img src="./banner.svg" alt="Naomi Kwamboka. AI and Automation Engineer, Nairobi, Kenya. Secure agents that work while you sleep." width="100%">
 </p>
 
 ## Hi, I'm Naomi
